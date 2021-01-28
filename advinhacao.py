@@ -7,6 +7,7 @@ total_de_tentativas = 3
 rodada = 1
 
 while(rodada <= total_de_tentativas):
+    print("Tentativa {} de {}".format(rodada, total_de_tentativas))
 
     chute = int(input("Digite o seu número: "))
     print("Você digitou ", chute)
@@ -23,4 +24,5 @@ while(rodada <= total_de_tentativas):
         elif(maior):
             print("O número informado é maior do que o número secreto.")
     rodada = rodada + 1
+    print("")
 print("Fim do Jogo!!")
