@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4b1b44de-7d60-4506-9ccc-197788cbfc61" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/adivinhacao.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forca.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jogos.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/advinhacao.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adivinhacao.py" beforeDir="false" afterPath="$PROJECT_DIR$/adivinhacao.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/forca.py" beforeDir="false" afterPath="$PROJECT_DIR$/forca.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jogos.py" beforeDir="false" afterPath="$PROJECT_DIR$/jogos.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

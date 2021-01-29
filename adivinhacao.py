@@ -47,3 +47,6 @@ def jogar():
             pontos = pontos - pontos_perdidos
         print("")
     print("Fim do Jogo o número secreto era: {} !!".format(numero_secreto))
+
+if(__name__ == "__main__"):
+    jogar()
