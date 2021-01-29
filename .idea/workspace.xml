@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4b1b44de-7d60-4506-9ccc-197788cbfc61" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/advinhacao.py" beforeDir="false" afterPath="$PROJECT_DIR$/advinhacao.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />

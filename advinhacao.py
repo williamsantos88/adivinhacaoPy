@@ -6,7 +6,6 @@ print("*********************************")
 
 numero_secreto = random.randrange(1, 101)
 total_de_tentativas = 3
-rodada = 1
 
 for rodada in range(1, total_de_tentativas + 1):
     print("Tentativa {} de {}".format(rodada, total_de_tentativas))
@@ -30,6 +29,5 @@ for rodada in range(1, total_de_tentativas + 1):
             print("O número informado é menor do que o número secreto.")
         elif(maior):
             print("O número informado é maior do que o número secreto.")
-    rodada = rodada + 1
     print("")
 print("Fim do Jogo o número secreto era: {} !!".format(numero_secreto))
